@@ -76,7 +76,6 @@ Ao longo da disciplina serão utilizadas principalmente:
 
 * 📄 **README.md** — informações e organização da aula;
 * 📄 **Relatorio_Aula_01.pdf** — relatório da aula;
-* 🎞️ **calculo_numerico.gif** — animação temática da disciplina.
 
 ---
 
