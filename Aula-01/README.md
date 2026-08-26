@@ -8,7 +8,7 @@
 
 <br>
 
-👩‍🎓 **Victoria Antonia Brito Barbosa**
+👩‍🎓 **Victoria Barbosa**
 🏫 **Turma: NB**
 🎓 **Bacharelado em Ciência e Tecnologia — UNIFESP**
 
