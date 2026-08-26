@@ -53,6 +53,7 @@ As atividades são desenvolvidas no **Google Colab** e posteriormente organizada
 **Conteúdo:** Apresentação da turma e da disciplina de Cálculo Numérico.
 
 > 📌 Aula destinada à apresentação da disciplina e dos alunos. Não houve atividade prática.
+
 🔗 [Acessar Aula 01](./Aula-01/)
 
 ---
