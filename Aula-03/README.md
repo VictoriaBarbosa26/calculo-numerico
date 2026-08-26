@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📘 Aula 02 — Introdução ao Cálculo Numérico e Erros
+# 📘 Aula 03 — Introdução ao Cálculo Numérico e Erros
 
 ### 📐 Cálculo Numérico
 
