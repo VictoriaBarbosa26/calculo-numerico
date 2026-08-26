@@ -38,13 +38,13 @@ Durante a aula, foram apresentados os principais aspectos da disciplina, sua pro
 
 Ao longo da disciplina serão abordados os seguintes conteúdos:
 
-* ⚠️ **Erros numéricos** — representação de números, erros absolutos e relativos, truncamento e arredondamento;
-* 🎯 **Zeros de funções reais** — métodos da bisseção, Newton e secante;
-* 🧮 **Sistemas de equações** — resolução de sistemas lineares e não lineares;
-* 📊 **Interpolação** — formas de Lagrange, Newton e Splines;
-* 📈 **Ajuste de curvas** — método dos mínimos quadrados;
-* ∫ **Integração numérica** — regras dos trapézios, Simpson e quadratura gaussiana;
-* 📐 **Equações diferenciais ordinárias** — métodos de passo simples, passo múltiplo e previsão-correção.
+* ⚠️ **Erros numéricos** 
+* 🎯 **Zeros de funções reais** 
+* 🧮 **Sistemas de equações** 
+* 📊 **Interpolação** 
+* 📈 **Ajuste de curvas** 
+* ∫ **Integração numérica** 
+* 📐 **Equações diferenciais ordinárias** 
 
 ---
 
