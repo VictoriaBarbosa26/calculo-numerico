@@ -77,6 +77,14 @@ O relatório apresenta um resumo dos conteúdos estudados, minhas interpretaçõ
 
 ---
 
+---
+
+## 📌 Continuidade da aula
+
+O material disponibilizado como **Anexo 01** junto à Aula 02 será registrado na **Aula 03**. Na aula seguinte, o conteúdo foi retomado e continuado, mantendo os conceitos apresentados nesta aula e avançando para novas atividades.
+
+---
+
 ## 📂 Arquivos da aula
 
 * 📄 **README.md** — informações e organização da aula;
