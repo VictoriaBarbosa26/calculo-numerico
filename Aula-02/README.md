@@ -65,7 +65,7 @@ Também desenvolvi uma aplicação própria utilizando uma **temperatura de proc
 
 O desenvolvimento completo da aula, incluindo os códigos, respostas, resultados e atividades práticas, está disponível no Google Colab:
 
-🔗 **[Abrir Aula 02 no Google Colab](COLE-AQUI-O-LINK-DO-SEU-COLAB)**
+🔗 **[Abrir Aula 02 no Google Colab](https://colab.research.google.com/drive/11RhnQEFs07T-cviueOJOZ8T7VC53Wc_a?usp=sharing)**
 
 ---
 
