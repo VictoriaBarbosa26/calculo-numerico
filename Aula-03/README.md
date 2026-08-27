@@ -72,7 +72,7 @@ Também foi analisado um exemplo relacionado à turbulência, comparando diferen
 
 O desenvolvimento completo da aula, incluindo os códigos, respostas, resultados e atividades práticas, está disponível no Google Colab:
 
-🔗 **[Abrir Aula 03 no Google Colab](COLE_AQUI_O_LINK_DO_COLAB_DA_AULA_03)**
+🔗 **[Abrir Aula 03 no Google Colab](https://colab.research.google.com/drive/1Q54prcEcN-Fd9H6Z7MAHolOftWBxPJh4?usp=sharing)**
 
 ---
 
