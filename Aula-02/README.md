@@ -77,10 +77,11 @@ O relatório apresenta um resumo dos conteúdos estudados, minhas interpretaçõ
 
 ---
 
+## 📌 Continuidade da aula
 
-A Aula 03 é uma continuação dos conteúdos trabalhados anteriormente. As seções iniciais retomam conceitos já estudados, enquanto, a partir da seção 9, são apresentados novos exemplos e atividades sobre **perda de significância por cancelamento numérico**.
+O conteúdo desenvolvido até a seção anterior ao **"Anexo 01 — Perda de significância por cancelamento numérico em turbulência"** corresponde à Aula 02.
 
-O conteúdo do **Anexo 01 — Perda de significância por cancelamento numérico em turbulência** está presente no próprio notebook do Google Colab e corresponde à parte nova desenvolvida nesta aula.
+A partir do **Anexo 01**, o conteúdo não foi desenvolvido neste notebook, pois sua continuidade foi realizada na Aula 03. Por esse motivo, essa parte permanece em branco na Aula 02 e pode ser consultada no notebook correspondente à Aula 03.
 ---
 
 ## 📂 Arquivos da aula
