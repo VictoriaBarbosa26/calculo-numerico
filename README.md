@@ -60,7 +60,7 @@ As atividades são desenvolvidas no **Google Colab** e posteriormente organizada
 
 **Conteúdo:** Atividade prática desenvolvida durante a aula.
 
-🔗 [Abrir atividade no Google Colab](#)
+🔗 [Acessar Aula 02](./Aula-02/)
 
 ---
 
@@ -68,7 +68,7 @@ As atividades são desenvolvidas no **Google Colab** e posteriormente organizada
 
 **Conteúdo:** Atividade prática desenvolvida durante a aula.
 
-🔗 [Abrir atividade no Google Colab](#)
+🔗 [Acessar Aula 03](./Aula-03/)
 
 ---
 
@@ -76,7 +76,7 @@ As atividades são desenvolvidas no **Google Colab** e posteriormente organizada
 
 **Conteúdo:** Atividade prática desenvolvida durante a aula.
 
-🔗 [Abrir atividade no Google Colab](#)
+🔗 [Acessar Aula 04](./Aula-04/)
 
 ---
 
