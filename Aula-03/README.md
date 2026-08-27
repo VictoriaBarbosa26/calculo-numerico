@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📘 Aula 03 — Introdução ao Cálculo Numérico e Erros
+# 📘 Aula 03 — Continuidade da Aula 02
 
 ### 📐 Cálculo Numérico
 
@@ -18,22 +18,24 @@
 
 ## 📖 Sobre a aula
 
-Nesta aula, começamos a estudar de forma prática os conceitos fundamentais de **Cálculo Numérico**, com foco em aproximações, erros e limitações da representação numérica em computadores.
+A Aula 03 dá continuidade aos conteúdos trabalhados na Aula 02, aprofundando o estudo de **erros numéricos, precisão e perda de significância por cancelamento numérico**.
 
-Por meio de exemplos e atividades utilizando **Python e Google Colab**, pude compreender como os erros podem ser calculados, interpretados e propagados durante operações numéricas.
+A aula utiliza exemplos práticos em **Python e Google Colab** para demonstrar como diferentes formulações matematicamente equivalentes podem apresentar resultados diferentes quando executadas em um computador.
+
+Também foi estudada uma aplicação do cancelamento numérico em **escoamentos turbulentos**, relacionando os conceitos de Cálculo Numérico com situações de engenharia e pós-processamento de resultados de CFD.
 
 ---
 
 ## 🎯 Objetivos da aula
 
-* 🧮 Compreender a necessidade de métodos numéricos;
-* 📊 Diferenciar valor de referência e aproximação;
-* 📐 Calcular e interpretar erros absoluto, relativo e percentual;
-* 🔢 Compreender a representação de números em ponto flutuante;
-* 🔄 Diferenciar arredondamento e truncamento;
-* 📈 Compreender a propagação de erros;
-* ⚠️ Identificar a perda de significância por cancelamento numérico;
-* 💻 Aplicar os conceitos utilizando Python.
+* ⚠️ Compreender a perda de significância por cancelamento numérico;
+* 🔢 Identificar os efeitos da representação de ponto flutuante;
+* 🧮 Comparar diferentes formulações matematicamente equivalentes;
+* 📐 Analisar a estabilidade numérica de expressões;
+* 🔄 Utilizar formas alternativas para reduzir erros numéricos;
+* 📊 Interpretar resultados obtidos computacionalmente;
+* 🌊 Relacionar cancelamento numérico com estatísticas de escoamentos turbulentos;
+* 💻 Aplicar os conceitos utilizando Python e Google Colab.
 
 ---
 
@@ -41,23 +43,28 @@ Por meio de exemplos e atividades utilizando **Python e Google Colab**, pude com
 
 Durante a aula, foram trabalhados:
 
-* ⚠️ **Erros absoluto, relativo e percentual**;
-* 🔢 **Algarismos significativos**;
-* 💻 **Representação de números em ponto flutuante**;
-* 🎯 **Comparação de números com tolerância**;
-* 🔄 **Arredondamento e truncamento**;
-* 📈 **Propagação de erros**;
-* ⚠️ **Cancelamento numérico**;
-* 🧮 **Precisão das aproximações**;
-* 🛠️ **Construção de uma função reutilizável para cálculo de erros**.
+* ⚠️ **Perda de significância por cancelamento numérico**;
+* 🧮 **Diferença entre raízes quadradas**;
+* 📐 **Racionalização de expressões**;
+* 📊 **Expressão `1 − cos(x)` e estabilidade numérica**;
+* 🔄 **Identidades matemáticas como alternativa à subtração crítica**;
+* 📈 **Comparação de formulações por meio de gráficos**;
+* 🎯 **Análise de resultados para valores pequenos de `x`**;
+* 🌊 **Cancelamento numérico em estatísticas turbulentas**;
+* 📊 **Variância das flutuações de velocidade**;
+* 💻 **Aplicação em pós-processamento de resultados de CFD**.
 
 ---
 
 ## 💻 Atividades
 
-A aula contou com atividades práticas envolvendo comparação de aproximações, cálculo de erros e análise da precisão dos resultados.
+A aula contou com atividades práticas de comparação entre formas diretas e formas numericamente mais estáveis.
 
-Também desenvolvi uma aplicação própria utilizando uma **temperatura de processo industrial** como exemplo, aplicando os conceitos estudados para comparar diferentes aproximações.
+Foram analisados exemplos envolvendo diferenças de raízes quadradas e a expressão `1 − cos(x)`, além de uma atividade final utilizando:
+
+**`f(x) = [1 − cos(x)] / x²`**
+
+Também foi analisado um exemplo relacionado à turbulência, comparando diferentes formas de cálculo da variância e observando os efeitos do cancelamento numérico.
 
 ---
 
@@ -65,29 +72,32 @@ Também desenvolvi uma aplicação própria utilizando uma **temperatura de proc
 
 O desenvolvimento completo da aula, incluindo os códigos, respostas, resultados e atividades práticas, está disponível no Google Colab:
 
-🔗 **[Abrir Aula 02 no Google Colab](https://colab.research.google.com/drive/11RhnQEFs07T-cviueOJOZ8T7VC53Wc_a?usp=sharing)**
+🔗 **[Abrir Aula 03 no Google Colab](COLE_AQUI_O_LINK_DO_COLAB_DA_AULA_03)**
 
 ---
 
 ## 📄 Relatório
 
-O relatório apresenta um resumo dos conteúdos estudados, minhas interpretações, respostas das atividades e conclusões obtidas durante a aula.
+O relatório apresenta uma visão geral dos conteúdos estudados na Aula 03, incluindo as atividades realizadas, resultados obtidos, análises e conclusões sobre estabilidade numérica e cancelamento numérico.
 
-📄 **[Abrir relatório da Aula 02](./Relatorio_Aula_02.pdf)**
+📄 **[Abrir relatório da Aula 03](./Relatorio_Aula_03.pdf)**
 
 ---
 
-
 ## 📌 Continuidade da aula
 
-O material disponibilizado como **Anexo 01** junto à Aula 02 será registrado na **Aula 03**. Na aula seguinte, o conteúdo foi retomado e continuado, mantendo os conceitos apresentados nesta aula e avançando para novas atividades.
+A Aula 03 é uma continuação da Aula 02.
+
+As seções iniciais retomam conteúdos e atividades já desenvolvidos anteriormente. A partir da seção 9, são apresentados exemplos relacionados à **perda de significância por cancelamento numérico**, incluindo a diferença entre raízes quadradas e a expressão `1 − cos(x)`.
+
+Na sequência, o conteúdo é aplicado a um exemplo de **estatísticas turbulentas**, permitindo relacionar os conceitos estudados com aplicações de engenharia e CFD.
 
 ---
 
 ## 📂 Arquivos da aula
 
 * 📄 **README.md** — informações e organização da aula;
-* 📄 **Relatorio_Aula_02.pdf** — relatório da aula;
+* 📄 **Relatorio_Aula_03.pdf** — relatório da Aula 03;
 * 📓 **Google Colab** — códigos, atividades e resultados desenvolvidos durante a aula.
 
 ---
@@ -96,7 +106,7 @@ O material disponibilizado como **Anexo 01** junto à Aula 02 será registrado n
 
 ### 📐 Cálculo Numérico
 
-**Aula 02 — Introdução ao Cálculo Numérico e Erros**
+**Aula 03 — Continuidade da Aula 02**
 
 <br>
 
