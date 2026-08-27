@@ -80,8 +80,8 @@ O relatório apresenta um resumo dos conteúdos estudados, minhas interpretaçõ
 ## 📌 Continuidade da aula
 
 O conteúdo desenvolvido até a seção anterior ao **"Anexo 01 — Perda de significância por cancelamento numérico em turbulência"** corresponde à Aula 02.
-
 A partir do **Anexo 01**, o conteúdo não foi desenvolvido neste notebook, pois sua continuidade foi realizada na Aula 03. Por esse motivo, essa parte permanece em branco na Aula 02 e pode ser consultada no notebook correspondente à Aula 03.
+
 ---
 
 ## 📂 Arquivos da aula
