@@ -121,7 +121,7 @@ A organização do repositório seguirá a estrutura das aulas e atividades dese
 
 ### ✨ Cálculo Numérico
 
-**Victoria Antonia Brito Barbosa — Turma NB**
+**Victoria Barbosa — Turma NB**
 
 Bacharelado em Ciência e Tecnologia
 **Universidade Federal de São Paulo — UNIFESP**
