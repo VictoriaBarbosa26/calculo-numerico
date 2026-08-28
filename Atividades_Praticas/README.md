@@ -27,7 +27,7 @@ Esta seção é destinada às **atividades práticas desenvolvidas na disciplina
 
 **Conteúdo:** Truncamento, arredondamento, erros numéricos, análise de pressão e vazão, sensibilidade ao raio e precisão computacional.
 
-🔗 **[Acessar Atividade I](./Atividade-I/)**
+🔗 **[Acessar Atividade I](./Atividade_I/)**
 
 ---
 
