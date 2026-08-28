@@ -72,11 +72,11 @@ As atividades são desenvolvidas no **Google Colab** e posteriormente organizada
 
 ---
 
-### 📕 Atividade I 
+### 📕 Atividades Práticas 
 
 **Conteúdo:** Atividade prática.
 
-🔗 [Acessar_Atividade_I](./Aula-04/)
+🔗 [Acessar Atividades Práticas](./Atividades_Praticas/)
 
 ---
 
