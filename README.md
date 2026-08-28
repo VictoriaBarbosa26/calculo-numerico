@@ -72,11 +72,11 @@ As atividades são desenvolvidas no **Google Colab** e posteriormente organizada
 
 ---
 
-### 📕 Aula 04 — Atividade
+### 📕 Atividade I 
 
-**Conteúdo:** Atividade prática desenvolvida durante a aula.
+**Conteúdo:** Atividade prática.
 
-🔗 [Acessar Aula 04](./Aula-04/)
+🔗 [Acessar_Atividade_I](./Aula-04/)
 
 ---
 
@@ -109,8 +109,8 @@ A organização do repositório seguirá a estrutura das aulas e atividades dese
 ├── 📓 Aula 03
 │   └── atividade_aula_03.ipynb
 │
-├── 📓 Aula 04
-│   └── atividade_aula_04.ipynb
+├── 📓 Atividade I
+│   └── atividade_I.ipynb
 │
 └── 📓 ...
 ```
