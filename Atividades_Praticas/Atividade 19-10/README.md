@@ -56,11 +56,11 @@ O desenvolvimento da atividade, incluindo os códigos, cálculos, gráficos e re
 
 ---
 
-## ✍️ Atividade feita à mão
+## ✍️ Atividade feita à mão e Resultados do Google Colab
+Os PDFs a seguir contém a resolução da **Lista de Exercícios de Cálculo Numérico**, realizada à mão e resultados dos códigos do google colab.
 
-O PDF a seguir contém a resolução da **Lista de Exercícios de Cálculo Numérico**, realizada à mão.
-
-📄 **[Abrir PDF da atividade feita à mão](./Atividade_Lista_Exercicios.pdf)**
+📄 **[Abrir PDF da atividade feita à mão](./Atividade 19_10 - Victoria.pdf)**
+📄 **[Abrir PDF dos resultados do google colab](./ATIVIDADE -COLAB - VICTORIA BARBOSA.pdf)**
 
 ---
 
