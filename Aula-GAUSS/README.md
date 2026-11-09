@@ -95,13 +95,13 @@ O desenvolvimento completo da aula, incluindo os códigos, exemplos, atividades 
 
 O relatório apresenta os conteúdos estudados, as demonstrações matemáticas, as explicações dos métodos numéricos, o desenvolvimento dos exemplos e as conclusões obtidas durante a aula.
 
-📄 **[Abrir relatório da Aula 09](./Relatorio_Aula_GAUSS.pdf)**
+📄 **[Abrir relatório da Aula GAUSS](./Relatorio_Aula_GAUSS.pdf)**
 
 ---
 
 ## 📂 Arquivos da aula
 
-* 📄 **README.md** — informações e organização da Aula 09;
+* 📄 **README.md** — informações e organização da Aula;
 * 📄 **Relatorio_Aula_GAUSS.pdf** — relatório da aula;
 * 📓 **Google Colab** — códigos, exemplos, atividades práticas e resultados desenvolvidos durante a aula.
 
