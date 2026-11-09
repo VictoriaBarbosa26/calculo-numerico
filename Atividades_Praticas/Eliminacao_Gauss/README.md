@@ -1,6 +1,6 @@
  <div align="center">
 
-# 📘 Atividade — Eliminação de Gauss
+# 📘 Atividade - Eliminação de Gauss
 
 ### 📐 Cálculo Numérico
 
