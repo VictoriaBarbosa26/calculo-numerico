@@ -35,7 +35,7 @@ Esta seção é destinada às **atividades práticas desenvolvidas na disciplina
 
 **Conteúdo:** Atividade prática desenvolvida durante a disciplina.
 
-🔗 **[Acessar Atividade II](./Atividade-II/)**
+🔗 **[Acessar Atividade II](./Atividade_II/)**
 
 ---
 
