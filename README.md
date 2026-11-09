@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Cálculo%20Numérico&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
@@ -6,16 +6,18 @@
 
 ### Bacharelado em Ciência e Tecnologia — UNIFESP
 
+<img src="./gif_cn.gif" width="600px">
+
 <br>
 
-👩‍🎓 **Victoria Barbosa**
+👩‍🎓 **Victoria Barbosa**  
 🏫 **Turma: NB**
 
 <br>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)](https://colab.research.google.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
 
@@ -27,7 +29,7 @@ A disciplina de **Cálculo Numérico** aborda métodos computacionais utilizados
 
 Ao longo da disciplina, são desenvolvidas atividades práticas utilizando **Python** e **Google Colab**, permitindo aplicar os conceitos matemáticos por meio da programação e da análise de resultados numéricos.
 
-Este repositório tem como objetivo **organizar e registrar as atividades desenvolvidas durante a disciplina**, reunindo os notebooks realizados no Google Colab e seus respectivos conteúdos.
+Este repositório tem como objetivo **organizar e registrar o desenvolvimento da disciplina**, reunindo aulas, atividades, implementações computacionais e materiais complementares.
 
 ---
 
@@ -35,84 +37,71 @@ Este repositório tem como objetivo **organizar e registrar as atividades desenv
 
 Este repositório foi criado para:
 
-* 📚 Organizar as atividades realizadas durante a disciplina;
+* 📚 Organizar as aulas e atividades desenvolvidas durante a disciplina;
 * 💻 Registrar os códigos desenvolvidos em Python;
 * 🧮 Aplicar conceitos de Cálculo Numérico na prática;
-* 📊 Analisar resultados e erros numéricos;
-* 🔗 Facilitar o acesso às atividades realizadas no Google Colab;
-* 📁 Manter um histórico organizado do desenvolvimento da disciplina.
+* 📊 Analisar resultados, aproximações e erros numéricos;
+* 🔗 Facilitar o acesso aos notebooks desenvolvidos no Google Colab;
+* 📁 Manter um histórico organizado do aprendizado e das atividades realizadas.
 
 ---
 
 ## 📚 Aulas e atividades
 
-As atividades são desenvolvidas no **Google Colab** e posteriormente organizadas neste repositório.
+O repositório reúne os conteúdos e materiais desenvolvidos ao longo da disciplina, organizados em pastas próprias para facilitar a consulta e a localização dos arquivos.
 
-### 📘 Aula 01 — Apresentação
+### 📘 Aulas
 
-**Conteúdo:** Apresentação da turma e da disciplina de Cálculo Numérico.
+As aulas estão organizadas individualmente, contendo seus respectivos materiais, anotações, códigos e relatórios, conforme o conteúdo desenvolvido durante o semestre.
 
-🔗 [Acessar Aula 01](./Aula-01/)
-
----
-
-### 📗 Aula 02 — Atividade
-
-**Conteúdo:** Atividade prática desenvolvida durante a aula.
-
-🔗 [Acessar Aula 02](./Aula-02/)
+🔗 **[Explorar as aulas no repositório](https://github.com/VictoriaBarbosa26/calculo-numerico)**
 
 ---
 
-### 📙 Aula 03 — Atividade
+### 📝 Atividades práticas
 
-**Conteúdo:** Atividade prática desenvolvida durante a aula.
+As atividades práticas estão reunidas em uma pasta específica, com seus respectivos READMEs, notebooks, documentos e materiais complementares.
 
-🔗 [Acessar Aula 03](./Aula-03/)
-
----
-
-### 📕 Atividades Práticas 
-
-**Conteúdo:** Atividade prática.
-
-🔗 [Acessar Atividades Práticas](./Atividades_Praticas/)
+🔗 **[Acessar atividades práticas](./Atividades_Praticas/)**
 
 ---
 
-> 💡 **Novas aulas e atividades serão adicionadas ao repositório conforme o desenvolvimento da disciplina.**
+> 💡 **Novas aulas, exercícios e atividades serão adicionados ao repositório conforme o desenvolvimento da disciplina.**
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-|      Ferramenta     | Utilização                                      |
-| :-----------------: | :---------------------------------------------- |
-|    🐍 **Python**    | Desenvolvimento dos códigos e métodos numéricos |
-| 📓 **Google Colab** | Desenvolvimento e execução dos notebooks        |
-|    🐙 **GitHub**    | Organização e versionamento das atividades      |
+| Ferramenta | Utilização |
+|:---:|:---|
+| 🐍 **Python** | Desenvolvimento dos códigos e métodos numéricos |
+| 📓 **Google Colab** | Desenvolvimento e execução dos notebooks |
+| 📊 **NumPy e Matplotlib** | Cálculos numéricos e visualização de resultados |
+| 🐙 **GitHub** | Organização e versionamento dos materiais |
 
 ---
 
 ## 📂 Organização do repositório
 
-A organização do repositório seguirá a estrutura das aulas e atividades desenvolvidas durante a disciplina.
+Os materiais estão distribuídos em pastas individuais, de acordo com as aulas e atividades correspondentes.
+
+Cada pasta possui sua própria organização e README, permitindo consultar os conteúdos sem sobrecarregar a página principal.
 
 ```text
 📁 calculo-numerico
 │
 ├── 📄 README.md
 │
-├── 📓 Aula 02
-│   └── atividade_aula_02.ipynb
+├── 📁 Aula-01/
+├── 📁 Aula-02/
+├── 📁 Aula-03/
 │
-├── 📓 Aula 03
-│   └── atividade_aula_03.ipynb
+├── 📁 .../
 │
-├── 📓 Atividade I
-│   └── atividade_I.ipynb
-│
-└── 📓 ...
+└── 📁 Atividades_Praticas/
+    ├── 📁 Atividade-01/
+    ├── 📁 Atividade-02/
+    └── 📁 ...
 ```
 
 ---
@@ -123,12 +112,12 @@ A organização do repositório seguirá a estrutura das aulas e atividades dese
 
 **Victoria Barbosa — Turma NB**
 
-Bacharelado em Ciência e Tecnologia
+Bacharelado em Ciência e Tecnologia  
 **Universidade Federal de São Paulo — UNIFESP**
 
 <br>
 
-*Repositório acadêmico desenvolvido para acompanhamento das atividades da disciplina.*
+*Repositório acadêmico desenvolvido para acompanhamento das aulas e atividades da disciplina.*
 
 </div>
 
