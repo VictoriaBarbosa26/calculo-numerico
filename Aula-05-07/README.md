@@ -18,92 +18,85 @@
 
 ## 📖 Sobre a aula
 
-A Aula 05 abordou os métodos de **iteração de ponto fixo e método babilônico**, apresentando técnicas numéricas utilizadas para encontrar aproximações de soluções de equações matemáticas.
+Nesta aula, foram estudados os métodos de **iteração de ponto fixo e método babilônico**, com foco na aproximação de soluções de equações matemáticas e na análise do comportamento das sequências numéricas.
 
-Durante a aula, foram estudados o funcionamento das funções iterativas, a relação entre o método babilônico e o método de Newton-Raphson, a influência de parâmetros na convergência e os critérios utilizados para avaliar a precisão dos resultados.
+Por meio de exemplos e atividades utilizando **Python e Google Colab**, pude compreender como construir funções iterativas, analisar a convergência e a divergência dos métodos e avaliar a precisão dos resultados obtidos.
 
-Também foram analisados exemplos de sequências convergentes, divergentes e oscilatórias, utilizando cálculos, tabelas e representações gráficas.
-
-**Observação:** A Aula 07 apresenta exatamente o mesmo conteúdo da Aula 05. Por esse motivo, ambas estão reunidas neste material, sem repetição das atividades.
+Também foi estudada a relação entre o método babilônico e o método de Newton-Raphson, além da influência de parâmetros na velocidade e no comportamento das aproximações.
 
 ---
 
 ## 🎯 Objetivos da aula
 
-* 🔁 Compreender o método de iteração de ponto fixo;
+* 🔁 Compreender o funcionamento do método de iteração de ponto fixo;
 * √ Aplicar o método babilônico para aproximar raízes quadradas;
 * 🧮 Compreender a relação entre o método babilônico e Newton-Raphson;
 * 📐 Construir funções iterativas a partir de equações;
 * 🎯 Analisar a influência do parâmetro λ na convergência;
-* 📊 Identificar comportamentos convergentes, divergentes e oscilatórios;
+* 📊 Diferenciar comportamentos convergentes, divergentes e oscilatórios;
 * 📏 Compreender os critérios de erro, resíduo e diferença entre iterações;
-* 💻 Implementar métodos numéricos utilizando Python;
-* 📈 Interpretar tabelas e gráficos de convergência.
+* 🔍 Analisar critérios de parada e tolerâncias numéricas;
+* 💻 Aplicar os conceitos utilizando Python.
 
 ---
 
-## 📚 Conteúdos da aula
+## 📚 Conteúdos estudados
 
-Durante a aula foram trabalhados os seguintes conteúdos:
+Durante a aula, foram trabalhados:
 
-* 🔁 **Iteração de ponto fixo**
-* √ **Método babilônico para raízes quadradas**
-* 🧮 **Relação com o método de Newton-Raphson**
-* 📐 **Construção de funções iterativas**
-* 🎯 **Parâmetro de ajuste λ**
-* 📉 **Análise de convergência e divergência**
-* 📏 **Erro absoluto, resíduo e diferença entre iterações**
-* 🔍 **Critérios de parada e tolerância numérica**
-* 📊 **Condição de convergência por meio da derivada**
-* 📈 **Gráficos de iteração e comportamento das funções**
-* 🧩 **Aplicações em problemas matemáticos e geométricos**
+* 🔁 **Método de iteração de ponto fixo**;
+* √ **Método babilônico para aproximação de raízes quadradas**;
+* 🧮 **Relação entre o método babilônico e Newton-Raphson**;
+* 📐 **Construção de funções iterativas**;
+* 🎯 **Parâmetro de ajuste λ**;
+* 📈 **Convergência, divergência e comportamento oscilatório**;
+* 📏 **Erro absoluto, resíduo e diferença entre iterações**;
+* 🔍 **Critérios de parada e tolerância numérica**;
+* 📊 **Condição de convergência utilizando a derivada**;
+* 📉 **Representação gráfica das iterações**;
+* 🧩 **Aplicações em problemas geométricos e vetoriais**.
 
 ---
 
 ## 💻 Atividades
 
-As atividades práticas foram desenvolvidas no **Google Colab**, utilizando Python para implementar os métodos estudados e analisar seus resultados.
+A aula contou com atividades práticas envolvendo a aplicação dos métodos iterativos, comparação de parâmetros e análise da convergência numérica.
 
-Entre os exercícios realizados, destacam-se:
+Entre os exercícios desenvolvidos, foram realizadas aproximações de √37 pelo método babilônico, comparação de diferentes tolerâncias, análise de funções com comportamentos distintos e construção de gráficos para visualizar as iterações.
 
-* √ Aproximação de √37 pelo método babilônico;
-* 📏 Comparação de diferentes tolerâncias numéricas;
-* 🎯 Análise de diferentes valores do parâmetro λ;
-* 🧮 Aplicação da iteração em funções lineares e não lineares;
-* 📈 Construção de gráficos para visualizar a convergência e a divergência;
-* 🔍 Análise de funções com comportamentos distintos;
-* 📐 Cálculo da diagonal de um quadrado;
-* 🧩 Cálculo da norma de um vetor;
-* 📊 Comparação entre a diferença das iterações e o resíduo.
+Também foram desenvolvidas aplicações envolvendo o cálculo da diagonal de um quadrado e da norma de um vetor, além da comparação entre a diferença das iterações e o resíduo para avaliar a precisão dos resultados.
+
+---
+
+## 📓 Google Colab
+
+O desenvolvimento completo da aula, incluindo os códigos, respostas, resultados e atividades práticas, está disponível no Google Colab:
+
+🔗 **[Abrir Aula 05 no Google Colab](https://colab.research.google.com/drive/11Jf6l-SCyb5a6x4z2Hysky4HS1zkBHny)**
 
 ---
 
 ## 📄 Relatório
 
-O relatório referente às Aulas 05 e 07 está disponível abaixo:
+O relatório apresenta os conteúdos estudados, as explicações dos métodos numéricos, minhas interpretações, o desenvolvimento das atividades e as conclusões obtidas durante a aula.
 
-📄 **[Abrir relatório das Aulas 05/07](./Relatorio_Aula_05.pdf)**
+📄 **[Abrir relatório da Aula 05](./Relatorio_Aula_05.pdf)**
 
 ---
 
-## 🛠️ Ferramentas utilizadas
+## 📌 Continuidade da aula
 
-Durante o desenvolvimento das atividades, foram utilizadas:
+A Aula 07 apresenta exatamente o mesmo conteúdo desenvolvido na Aula 05. Por esse motivo, as duas aulas foram reunidas neste material, evitando a repetição dos conteúdos, códigos e atividades.
 
-* 🐍 **Python** — implementação dos métodos numéricos e realização dos cálculos;
-* 📓 **Google Colab** — desenvolvimento e execução das atividades;
-* 🔢 **NumPy** — operações matemáticas e cálculos numéricos;
-* 📊 **Pandas** — organização dos resultados em tabelas;
-* 📈 **Matplotlib** — construção de gráficos e visualização das iterações;
-* 🐙 **GitHub** — organização e disponibilização dos trabalhos.
+Assim, este notebook contempla o desenvolvimento das Aulas 05 e 07, incluindo os conceitos teóricos, exemplos e experimentos computacionais realizados.
 
 ---
 
 ## 📂 Arquivos da aula
 
-* 📄 **README.md** — informações e organização das Aulas 05/07;
+* 📄 **README.md** — informações e organização das Aulas 05 e 07;
 * 📄 **Relatorio_Aula_05.pdf** — relatório das aulas;
-* 📓 **Aula_05.ipynb** — notebook com os conteúdos, códigos e atividades práticas.
+* 📓 **Google Colab** — códigos, atividades e resultados desenvolvidos durante as aulas.
 
 ---
 
@@ -111,7 +104,7 @@ Durante o desenvolvimento das atividades, foram utilizadas:
 
 ### 📐 Cálculo Numérico
 
-**Aula 05/07 — Iteração de Ponto Fixo e Método Babilônico**
+**Aula 05 e 07 — Iteração de Ponto Fixo e Método Babilônico**
 
 <br>
 
